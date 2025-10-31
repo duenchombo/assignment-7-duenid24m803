@@ -1,6 +1,6 @@
 **Name: DUEN MICHAEL CHOMBO** 
 - Roll_NUMBER: ID24M803 
-- colab: https://github.com/duenchombo/assignment-6-duenid24m803.git
+- colab: https://github.com/duenchombo/assignment-7-duenid24m803.git
 
 **kindly note**
 
